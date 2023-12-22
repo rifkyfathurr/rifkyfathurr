@@ -5,7 +5,7 @@ I am passionate about Data Analytics, Quality Assurance (QA) Engineering, and Au
 
 ## 💼 Skills & Tools
 
-- **Data Analysis:** Python, R, SQL, Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis:** Python, R, SQL, Pandas
 - **QA Engineering:** Manual Testing, Automated Testing (Selenium, Cypress), Test Planning, Bug Tracking (Jira, Bugzilla)
 - **Automation:** Python scripting, Shell scripting, CI/CD (Jenkins, Travis CI), Docker, Kubernetes
 
