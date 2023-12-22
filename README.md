@@ -20,6 +20,7 @@ I am currently enhancing my skills in:
 - [Data Analysis of Sales Trends](Link to Data Analysis Project)
 - [Automated Test Suite for Web Application](Link to QA Automation Project)
 - [Dashboard for Financial Data Visualization](Link to Data Visualization Project)
+- [QA Tester](Link to QA Tester) 
 
 ## 📫 Let's Connect
 
